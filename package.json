@@ -16,7 +16,7 @@
     "@fontsource/roboto": "^5.1.0",
     "@mui/icons-material": "^5.16.7",
     "@mui/material": "6.0.0-beta.5",
-    "@mui/material-nextjs": "6.0.0-beta.4",
+    "@mui/material-nextjs": "6.3.0",
     "graphql": "^16.9.0",
     "next": "15.1.0",
     "react": "^18.3.1",
